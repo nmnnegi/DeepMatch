@@ -1,4 +1,4 @@
-altair==4.2.2
+altair==5.2.0
 annotated-types==0.6.0
 attrs==23.1.0
 blinker==1.7.0
@@ -56,7 +56,7 @@ rpds-py==0.16.2
 rsa==4.9
 six==1.16.0
 smmap==5.0.1
-streamlit==1.29.0
+streamlit==1.31.1
 streamlit-option-menu==0.3.6
 tenacity==8.2.3
 toml==0.10.2
